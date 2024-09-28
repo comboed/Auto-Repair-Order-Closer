@@ -6,6 +6,8 @@ Open main.py and set tek account information
 Set filename to the RO excel sheet in the data folder
 * Column formats should be: LOCATION | RO | EMPTY COLUMN (used for storing entry) | VIN
 
+Run main.py and the bot should start processing each line.
+
 ## Info
 All opcodes are stored in the /data/opcodes/opcodes.json file (Nearly all the commonly used ones are saved, including hashes).
 
