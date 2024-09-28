@@ -13,10 +13,10 @@ PASSWORD = "PASSWORD"
 LOCATION_NUMBER = 1
 
 # Repair order filename
-FILENAME = "TEK 09.12.2024.xlsx - NEWARK.csv"
+FILENAME = "FILENAME IN /data folder"
 
 # Force bot to start at specific repair order [OPTIONAL]
-START_REPAIR_ORDER = "6488"
+START_REPAIR_ORDER = NONE
 
 if __name__ == "__main__":
     print("Tekion Automatic Repair Order Processor \n")
