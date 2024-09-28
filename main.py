@@ -16,7 +16,7 @@ LOCATION_NUMBER = 1
 FILENAME = "FILENAME IN /data folder"
 
 # Force bot to start at specific repair order [OPTIONAL]
-START_REPAIR_ORDER = NONE
+START_REPAIR_ORDER = None
 
 if __name__ == "__main__":
     print("Tekion Automatic Repair Order Processor \n")
